@@ -2,7 +2,6 @@
 
 ![](/C1%20-%20Introduction%20to%20HTML5/week3/Assignment%20-%20Hosting%20and%20Validation/head.png)
 
-
 Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web Development &amp; Coding Specialization</b>
 
 ## Course 1 : [Introduction to HTML5](https://www.coursera.org/learn/html)
