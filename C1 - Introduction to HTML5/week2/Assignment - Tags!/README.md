@@ -1,0 +1,6 @@
+![](/C1%20-%20Introduction%20to%20HTML5/week2/Assignment%20-%20Tags!/ss1.png)
+![](/C1%20-%20Introduction%20to%20HTML5/week2/Assignment%20-%20Tags!/ss2.png)
+![](/C1%20-%20Introduction%20to%20HTML5/week2/Assignment%20-%20Tags!/ss3.png)
+![](/C1%20-%20Introduction%20to%20HTML5/week2/Assignment%20-%20Tags!/ss4.png)
+![](/C1%20-%20Introduction%20to%20HTML5/week2/Assignment%20-%20Tags!/ss5.png)
+![](/C1%20-%20Introduction%20to%20HTML5/week2/Assignment%20-%20Tags!/ss6.png)

@@ -1,0 +1,1 @@
+![](/C1%20-%20Introduction%20to%20HTML5/week3/Assignment%20-%20Hosting%20and%20Validation/ss1.png)
