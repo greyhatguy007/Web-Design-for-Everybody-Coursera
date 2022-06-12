@@ -1,6 +1,6 @@
 # [Web-Design-for-Everybody-Coursera](https://www.coursera.org/specializations/web-design)
 
-![](/Web-Design-for-Everybody-Coursera/C1%20-%20Introduction%20to%20HTML5/week3/Assignment%20-%20Hosting%20and%20Validation/head.png)
+![](/C1%20-%20Introduction%20to%20HTML5/week3/Assignment%20-%20Hosting%20and%20Validation/head.png)
 
 
 Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web Development &amp; Coding Specialization</b>
