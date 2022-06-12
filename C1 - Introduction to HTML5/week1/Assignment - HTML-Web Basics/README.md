@@ -1,0 +1,5 @@
+![](/C1 - Introduction to HTML5/week1/Assignment - HTML-Web Basics/ss1.png)
+![](/C1 - Introduction to HTML5/week1/Assignment - HTML-Web Basics/ss2.png)
+![](/C1 - Introduction to HTML5/week1/Assignment - HTML-Web Basics/ss3.png)
+![](/C1 - Introduction to HTML5/week1/Assignment - HTML-Web Basics/ss4.png)
+![](/C1 - Introduction to HTML5/week1/Assignment - HTML-Web Basics/ss5.png)
