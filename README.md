@@ -13,3 +13,14 @@ Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web D
 - [Week 3](https://github.com/greyhatguy007/Web-Design-for-Everybody-Coursera/tree/main/C1%20-%20Introduction%20to%20HTML5/week3)
     - [Assignment](https://github.com/greyhatguy007/Web-Design-for-Everybody-Coursera/tree/main/C1%20-%20Introduction%20to%20HTML5/week3/Assignment%20-%20Hosting%20and%20Validation)
     - [Final Project](https://github.com/greyhatguy007/Web-Design-for-Everybody-Coursera/tree/main/C1%20-%20Introduction%20to%20HTML5/week3/Final%20Project)
+
+## Course 2 : [Introduction to CSS3](https://www.coursera.org/learn/introcss)
+
+- [Week 1](/C2-Introduction-to-CSS3/week1/)
+    - [Quiz - Styling - Syntax and Theory](/C2-Introduction-to-CSS3/week1/q1-Styling-Syntax-and-Theory/)
+    - [Assignment - Creating an External Style Sheet](/C2-Introduction-to-CSS3/week1/assignment-1/)
+
+- [Week 2](/C2-Introduction-to-CSS3/week2/)
+- [Week 3](/C2-Introduction-to-CSS3/week3/)
+- [Week 4](/C2-Introduction-to-CSS3/week4/)
+- [Notes](/C2-Introduction-to-CSS3/notes/)
