@@ -21,6 +21,12 @@ Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web D
     - [Assignment - Creating an External Style Sheet](/C2-Introduction-to-CSS3/week1/assignment-1/)
 
 - [Week 2](/C2-Introduction-to-CSS3/week2/)
+    - [Assignment](/C2-Introduction-to-CSS3/week2/css/)    
+
 - [Week 3](/C2-Introduction-to-CSS3/week3/)
+    - No Programming Assignments
+
 - [Week 4](/C2-Introduction-to-CSS3/week4/)
+    - [Assignment](/C2-Introduction-to-CSS3/week4/css/)
+
 - [Notes](/C2-Introduction-to-CSS3/notes/)
