@@ -1,0 +1,98 @@
+body {
+    margin: 1%;
+    padding: 1%;
+    background: #ffffff;
+}
+
+header {
+    background: #B7BF96;
+    background-image: url(../images/flywheel.jpg);
+}
+
+nav {
+    margin: 1%;
+    padding: 2%;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    width: 20%;
+    height: 40px;
+    border-radius: 5%;
+    background-color: rgba(255, 255, 255, 0.3);
+    opacity: 0.6;
+    padding-top: 20px;
+    margin-right: 10px;
+}
+
+.active {
+    background-color: white;
+}
+
+.left {
+    background-color: #717E16;
+    width: 23%;
+    float: left;
+}
+
+.right {
+    background: #ffffff;
+    width: 64%;
+    padding: 5px 20px;
+    float: left;
+}
+
+h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+}
+
+h2 {
+    color: #514644;
+    text-transform: uppercase;
+}
+
+section {
+    background: rgba(255, 255, 255, 0);
+}
+
+img {
+    width: 250px;
+    display: block;
+    border: #000000 2px solid;
+    margin: 30px auto;
+}
+
+a {
+    color: #000000;
+}
+
+table {
+    margin: auto;
+}
+
+table tr td {
+    background-color: #DCFBD3;
+    padding: 12px;
+    opacity: 0.6;
+}
+
+table tr td:hover {
+    opacity: 1;
+}
+
+table tr th {
+    background-color: #87A84F;
+    opacity: 0.7;
+    color: white;
+    padding: 10px
+}
+
+table tr th:first-child {
+    text-align: left;
+}
