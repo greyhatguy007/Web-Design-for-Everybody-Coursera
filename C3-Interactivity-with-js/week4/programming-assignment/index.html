@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>
+        JavaScript Homework</h1>
+    <p>Add the JavaScript code needed to enable auto-complete on this form. Whenever the checkbox is checked, the code should automatically copy the values from Shipping Name and Shipping Zip into the Billing Name and Billing Zip. If the checkbox is unchecked,
+        the Billing Name and Billing Zip should go blank.</p>
+
+    <form>
+        <fieldset>
+            <legend>Shipping Information</legend>
+            <label for="shippingName">Name:</label>
+            <input type="text" name="shipName" id="shippingName" required><br/>
+            <label for="shippingZip">Zip code:</label>
+            <input type="text" name="shipZip" id="shippingZip" pattern="[0-9]{5}" required><br/>
+        </fieldset>
+        <input type="checkbox" id="same" name="same" onchange="billingFunction()" />
+        <label for="same">Is the Billing Information the Same?</label>
+
+        <fieldset>
+            <legend>Billing Information</legend>
+            <label for="billingName">Name:</label>
+            <input type="text" name="billName" id="billingName" required><br/>
+            <label for="billingZip">Zip code:</label>
+            <input type="text" name="billZip" id="billingZip" pattern="[0-9]{5}" required><br/>
+        </fieldset>
+        <input type="submit" value="Verify" />
+    </form>
+</body>
+
+</html>

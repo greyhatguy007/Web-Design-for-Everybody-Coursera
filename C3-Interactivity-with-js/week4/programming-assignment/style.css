@@ -1,0 +1,11 @@
+input {
+    border: 1px solid black;
+}
+
+input:focus {
+    background-color: #E6E6E6;
+}
+
+fieldset {
+    margin-bottom: 4%;
+}
