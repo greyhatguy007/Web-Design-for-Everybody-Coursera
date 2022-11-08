@@ -14,6 +14,8 @@ Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web D
     - [Assignment](https://github.com/greyhatguy007/Web-Design-for-Everybody-Coursera/tree/main/C1%20-%20Introduction%20to%20HTML5/week3/Assignment%20-%20Hosting%20and%20Validation)
     - [Final Project](https://github.com/greyhatguy007/Web-Design-for-Everybody-Coursera/tree/main/C1%20-%20Introduction%20to%20HTML5/week3/Final%20Project)
 
+### [Certificate of Completion](https://coursera.org/share/da0eacf52c37759cfc13981a9ee6f4dc)
+
 ## Course 2 : [Introduction to CSS3](https://www.coursera.org/learn/introcss)
 
 - [Week 1](/C2-Introduction-to-CSS3/week1/)
@@ -30,3 +32,21 @@ Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web D
     - [Assignment](/C2-Introduction-to-CSS3/week4/css/)
 
 - [Notes](/C2-Introduction-to-CSS3/notes/)
+
+### [Certificate Of Completion](https://coursera.org/share/7f5bdfed221062384249e9c452669daa) 
+
+## Course 3 : [Interactivity With Javascript](/C3-Interactivity-with-js/)
+
+- [Week 1]()
+    - No Assessment
+
+- [Week 2](/C3-Interactivity-with-js/week2/)
+    - [Programming Assignment](/C3-Interactivity-with-js/week2/programming-assignment/)
+
+- [Week 3]()
+    - No Assessment
+
+- [Week 4](/C3-Interactivity-with-js/week4/)
+    - [Programming Assignment](/C3-Interactivity-with-js/week4/programming-assignment/)
+
+### [Certificate Of Completion](https://coursera.org/share/b86356c34c64f08c755f1ecdaa18a749)
