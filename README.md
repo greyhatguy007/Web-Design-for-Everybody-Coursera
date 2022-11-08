@@ -58,7 +58,7 @@ Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web D
     - [Quiz - Basic Concepts in Responsive Design](/C4-Advanced-Styling-With-Responsive-Design/week1/quiz-basic-concepts-in-responsive-design-approaches/)
 
 - [Week 2](/C4-Advanced-Styling-With-Responsive-Design/week2/)
-    -[Quiz - Media Queries and Breakpoints](/C4-Advanced-Styling-With-Responsive-Design/week2/quiz-media-queries-and-breakpoints/)
+    - [Quiz - Media Queries and Breakpoints](/C4-Advanced-Styling-With-Responsive-Design/week2/quiz-media-queries-and-breakpoints/)
 
 - [Week 3](/C4-Advanced-Styling-With-Responsive-Design/week3/)
     - [Quiz - Bootstrap](/C4-Advanced-Styling-With-Responsive-Design/week3/quiz-bootstrap/)
