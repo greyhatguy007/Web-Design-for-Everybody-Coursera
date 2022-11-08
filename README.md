@@ -50,3 +50,20 @@ Contains Solution For the course :<b>  Web Design for Everybody: Basics of Web D
     - [Programming Assignment](/C3-Interactivity-with-js/week4/programming-assignment/)
 
 ### [Certificate Of Completion](https://coursera.org/share/b86356c34c64f08c755f1ecdaa18a749)
+
+
+## Course 4 : [Advanced Styling with Responsive Design](/C4-Advanced-Styling-With-Responsive-Design/)
+
+- [Week 1](/C4-Advanced-Styling-With-Responsive-Design/week1/)
+    - [Quiz - Basic Concepts in Responsive Design](/C4-Advanced-Styling-With-Responsive-Design/week1/quiz-basic-concepts-in-responsive-design-approaches/)
+
+- [Week 2](/C4-Advanced-Styling-With-Responsive-Design/week2/)
+    -[Quiz - Media Queries and Breakpoints](/C4-Advanced-Styling-With-Responsive-Design/week2/quiz-media-queries-and-breakpoints/)
+
+- [Week 3](/C4-Advanced-Styling-With-Responsive-Design/week3/)
+    - [Quiz - Bootstrap](/C4-Advanced-Styling-With-Responsive-Design/week3/quiz-bootstrap/)
+
+- [Week 4](/C4-Advanced-Styling-With-Responsive-Design/week4/)
+    - [Quiz - Final Assessment](/C4-Advanced-Styling-With-Responsive-Design/week4/quiz-final-assessment/)
+
+### [Certificate Of Completion](https://coursera.org/share/8d99cf5632cdea0df9f249963a8d8576)
